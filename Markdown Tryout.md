@@ -153,7 +153,8 @@ And here is another beautiful picture of Guanghua Rd's busy car flow at sundown,
 
 **Again!!! DO NOT forget to place the pic file in the directory of your .md file!!!**
 
-![md file directory](md file directory.png)
+![1e6682adeee1b4094fa72bb598b57b08_md%20file%20directory_raw=true](https://github.com/alexsallinger/note/assets/25416308/7bdcb62e-b562-41e3-9d8e-63960a53aa45)
+
 
 ----
 <font size=5>10.  And here is a way of displaying a **math expression**:</font>
